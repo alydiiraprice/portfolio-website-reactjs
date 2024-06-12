@@ -1,0 +1,8 @@
+/* styles all elements in the website*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", Arial, Helvetica, sans-serif; /*added defaults*/
+}
