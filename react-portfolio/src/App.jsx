@@ -1,4 +1,5 @@
 import styles from './App.module.css'
+import { Navbar } from './components/Navbar/Navbar';
 
 function App() {
 
@@ -6,7 +7,7 @@ function App() {
     // apply a style
     <div className={styles.App}>
       
-      hello world
+      <Navbar />
     </div>
   )
 }
